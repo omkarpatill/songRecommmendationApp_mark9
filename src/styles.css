@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+
+.App {
+  font-family: "Open Sans";
+
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+}
+
+div {
+  display: block;
+}
